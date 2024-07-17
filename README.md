@@ -3,6 +3,9 @@
 1. Watched playlist of Power BI and implemented
 2. Worked on Power BI
 3. ![image](https://github.com/user-attachments/assets/5741a249-19f8-4569-a9d1-8c64b34d485b)
+4. ## Mall Customer Report
+![image](https://github.com/user-attachments/assets/ccef9e24-7582-4b21-a0ff-c7354c8d1237)
+
 
 # Week 2- Heart Dataset analysis
 
