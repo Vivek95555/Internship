@@ -4,7 +4,7 @@
 2. Worked on Power BI
 3. ![image](https://github.com/user-attachments/assets/5741a249-19f8-4569-a9d1-8c64b34d485b)
 
-# Week 2- Heart Datase analysis
+# Week 2- Heart Dataset analysis
 
 The heart data analysis conducted in this project aimed to explore and predict the presence of heart disease using a dataset containing various medical attributes. The analysis was performed in a Jupyter Notebook, which provided an interactive and flexible environment for data exploration, visualization, and modeling.
 
